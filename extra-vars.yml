@@ -1,0 +1,24 @@
+---
+
+site_name: "djencrypt"
+db_password: asfdahnnke
+git_repo: https://joe@git.jazstudios.com/pub/chipy-letsencrypt-test.git
+install_mysql: False
+install_redis: False
+python_version: python3.5
+
+install_ntp: True
+install_unattended_updates: True
+install_timezone: True
+
+install_django: True
+install_docker: True
+install_nginx: True
+install_elasticsearch: False
+install_kibana: False
+install_postgis: False
+install_postgres: True
+install_postfix: False
+install_mysql: False
+install_redis: False
+install_nrpe: False
